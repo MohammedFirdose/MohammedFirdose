@@ -1,20 +1,20 @@
 <div align="right"
-![GitHub followers](https://img.shields.io/github/followers/SALAUDDIN06?style=plastic&logo=appveyor&labelColor=ffffff&color=fedcba&cacheSeconds=3900)
+![GitHub followers](https://img.shields.io/github/followers/MohammedFirdose?style=plastic&logo=appveyor&labelColor=ffffff&color=fedcba&cacheSeconds=3900)
 
 </div>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Salauddin!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohammed Firdose;" />
 </h1>
 
-<h3 align="center">Data Analyst</h3>
+<h3 align="center">AI&ML Engineer</h3>
 
 <div align="center">
 
-🌱 I’m currently learning ML ,Python,mern stack
+🌱 I’m currently learning ML ,Python,AI
 
-💬 Ask me about Python R-language
+💬 Ask me about Python
 
-📫 How to reach me salauddinmohammed902@gmail.com
+📫 How to reach me mdfirdose273@gmail.com
 
 
  </div>
@@ -25,7 +25,7 @@
   <div align="center">
 
     
-  [![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css&perline=7)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,Cunit,Selenium,html,css,Excel,Java,MySQL,Uipath&perline=7)](https://skillicons.dev)
 
   </div>
 
