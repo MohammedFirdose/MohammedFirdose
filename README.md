@@ -25,7 +25,7 @@
   <div align="center">
 
     
-  [![My Skills](https://skillicons.dev/icons?i=python,C,html,css,Java,SQL&perline=7)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,html,css,SQL&perline=7)](https://skillicons.dev)
 
   </div>
 
@@ -44,7 +44,7 @@
 <div align="center">
 
     
-  [![My Skills](https://skillicons.dev/icons?i=express,nodejs&perline=6)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=express,nodejs,java,C&perline=6)](https://skillicons.dev)
 
   </div>
 </p>
@@ -78,7 +78,7 @@
 <div align="center">
 
     
-  [![My Skills](https://skillicons.dev/icons?i=selenium,docker,vscode,Excel,linux,bash&perline=5)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=selenium,docker,vscode,linux,bash&perline=5)](https://skillicons.dev)
 
   </div>
 </p>
