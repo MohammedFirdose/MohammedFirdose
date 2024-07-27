@@ -78,7 +78,7 @@
 <div align="center">
 
     
-  [![My Skills](https://skillicons.dev/icons?i=selenium,docker,vscode,linux,bash&perline=5)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=selenium,docker,vscode,linux,pycharm,bash&perline=5)](https://skillicons.dev)
 
   </div>
 </p>
