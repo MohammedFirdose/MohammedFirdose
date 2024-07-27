@@ -6,15 +6,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohammed Firdose;" />
 </h1>
 
-<h3 align="center">AI&ML Engineer</h3>
+<h3 align="center">AI & ML Engineer</h3>
 
 <div align="center">
 
 🌱 I’m currently learning ML ,Python,AI
 
-💬 Ask me about Python
+💬 Ask me about Python,AI,ML
 
-📫 How to reach me mdfirdose273@gmail.com
+📫 How to reach me mohammedfirdose273@gmail.com
 
 
  </div>
@@ -25,7 +25,7 @@
   <div align="center">
 
     
-  [![My Skills](https://skillicons.dev/icons?i=python,Cunit,Selenium,html,css,Excel,Java,MySQL,Uipath&perline=7)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,C,html,css,Java,MySQL&perline=7)](https://skillicons.dev)
 
   </div>
 
@@ -35,7 +35,7 @@
 <div align="center">
 
     
-  [![My Skills](https://skillicons.dev/icons?i=react,tailwind,css&perline=6)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css&perline=6)](https://skillicons.dev)
 
   </div>
 
@@ -78,15 +78,15 @@
 <div align="center">
 
     
-  [![My Skills](https://skillicons.dev/icons?i=idea,appwrite,docker,vscode,neovim,vim,postman,figma,linux,bash&perline=5)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=selenium,docker,vscode,Excel,linux,bash&perline=5)](https://skillicons.dev)
 
   </div>
 </p>
 
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salauddin06&show_icons=true&locale=en&layout=compact" alt="salauddin06" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohammedFirdose&show_icons=true&locale=en&layout=compact" alt="MohammedFirdose" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salauddin06&show_icons=true&locale=en" alt="salauddin06" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MohammedFirdose&show_icons=true&locale=en" alt="MohammedFirdose" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salauddin06&" alt="salauddin06" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salauddin06&" alt="MohammedFirdose" /></p>
 
